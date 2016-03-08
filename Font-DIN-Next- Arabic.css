@@ -1,0 +1,32 @@
+@font-face{font-family:'DinNextLight';
+src:url('https://dl.dropboxusercontent.com/s/31smikxrgbymzy0/DinNextMedium.eot');
+src:url('https://dl.dropboxusercontent.com/s/31smikxrgbymzy0/DinNextMedium.eot') format('embedded-opentype'),
+url('https://dl.dropboxusercontent.com/s/o3zrbjbeur2b810/DinNextLight.woff2') format('woff2'),
+url('https://dl.dropboxusercontent.com/s/w4lkv2g0f2i44h1/DinNextLight.woff') format('woff'),
+url('https://dl.dropboxusercontent.com/s/m02msax14h9m72h/DinNextLight.ttf') format('truetype'),
+url('https://dl.dropboxusercontent.com/s/16rfntbjd4p4ke5/DinNextLight.svg#DinNextLight') format('svg');
+}
+@font-face{font-family:'DinNextRegular';
+src:url('https://dl.dropboxusercontent.com/s/9zwdr0obiz1h5wq/ng4asans-regular.eot');
+src:url('https://dl.dropboxusercontent.com/s/9zwdr0obiz1h5wq/ng4asans-regular.eot') format('embedded-opentype'),
+url('https://dl.dropboxusercontent.com/s/8iy5gjstm886kha/DinNextRegular.woff2') format('woff2'),
+url('https://dl.dropboxusercontent.com/s/chfqt8lyyd1iexh/DinNextRegular.woff') format('woff'),
+url('https://dl.dropboxusercontent.com/s/qtkgrsnec4cox6a/DinNextRegular.ttf') format('truetype'),
+url('https://dl.dropboxusercontent.com/s/mwn8tkyjoaxc01p/DinNextRegular.svg#DinNextRegular') format('svg');
+}
+@font-face{font-family:'DinNextMedium';
+src:url('https://dl.dropboxusercontent.com/s/31smikxrgbymzy0/DinNextMedium.eot');
+src:url('https://dl.dropboxusercontent.com/s/31smikxrgbymzy0/DinNextMedium.eot') format('embedded-opentype'),
+url('https://dl.dropboxusercontent.com/s/8xai4idb9l6j35k/DinNextMedium.woff2') format('woff2'),
+url('https://dl.dropboxusercontent.com/s/w5tlofilvwvkog5/DinNextMedium.woff') format('woff'),
+url('https://dl.dropboxusercontent.com/s/ltvq0zjffbcenzl/DinNextMedium.ttf') format('truetype'),
+url('https://dl.dropboxusercontent.com/s/u5capgg5xkx91e6/DinNextMedium.svg#DinNextMedium') format('svg');
+}
+@font-face{font-family:'DinNextBold';
+src:url('https://dl.dropboxusercontent.com/s/8rjr97a4gocbga5/DinNextBold.eot');
+src:url('https://dl.dropboxusercontent.com/s/8rjr97a4gocbga5/DinNextBold.eot') format('embedded-opentype'),
+url('https://dl.dropboxusercontent.com/s/jqmr1jvm633x5u5/DinNextBold.woff2') format('woff2'),
+url('https://dl.dropboxusercontent.com/s/j8xkqw2vpinquwl/DinNextBold.woff') format('woff'),
+url('https://dl.dropboxusercontent.com/s/jwqv5oya2ty36uc/DinNextBold.ttf') format('truetype'),
+url('https://dl.dropboxusercontent.com/s/g7qwnu71l6af516/DinNextBold.svg#DinNextBold') format('svg');
+}
